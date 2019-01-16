@@ -41,7 +41,7 @@ class Circle extends Figure
      */
     public function setRadius($radius)
     {
-        $this->radius = $radius; ///dsddfsdfdsd
+        $this->radius = $radius; //fdfdfd
     }
 
 }
